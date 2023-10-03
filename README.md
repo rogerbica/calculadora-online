@@ -26,11 +26,11 @@ O servidor estará ouvindo na porta 3000.
 
 Acesse os seguintes endpoints para realizar as operações:
 
-Soma: http://localhost:3000/somar?num1=valor&num2=valor   
-Subtração: http://localhost:3000/subtrair?num1=valor&num2=valor 
-Multiplicação: http://localhost:3000/multiplicar?num1=valor&num2=valor 
-Divisão: http://localhost:3000/dividir?num1=valor&num2=valor 
-Substitua valor pelos números desejados.
+"Soma: http://localhost:3000/somar?num1=valor&num2=valor"
+"Subtração: http://localhost:3000/subtrair?num1=valor&num2=valor" 
+"Multiplicação: http://localhost:3000/multiplicar?num1=valor&num2=valor" 
+"Divisão: http://localhost:3000/dividir?num1=valor&num2=valor" 
+"Substitua valor pelos números desejados."
 
 **Exemplo de Uso**
 
