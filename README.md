@@ -5,9 +5,10 @@ Este é um projeto simples de backend utilizando Node.js e Express para criar um
 ## Como Usar
 
 **Instalação**
-   Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
    
-   Clone o repositório e navegue até o diretório do projeto:
+Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+   
+Clone o repositório e navegue até o diretório do projeto
 
 Instale as dependências:
 
@@ -25,10 +26,10 @@ O servidor estará ouvindo na porta 3000.
 
 Acesse os seguintes endpoints para realizar as operações:
 
-Soma: http://localhost:3000/somar?num1=<valor>&num2=<valor>
-Subtração: http://localhost:3000/subtrair?num1=<valor>&num2=<valor>
-Multiplicação: http://localhost:3000/multiplicar?num1=<valor>&num2=<valor>
-Divisão: http://localhost:3000/dividir?num1=<valor>&num2=<valor>
+Soma: http://localhost:3000/somar?num1=<valor>&num2=<valor> 
+Subtração: http://localhost:3000/subtrair?num1=<valor>&num2=<valor> 
+Multiplicação: http://localhost:3000/multiplicar?num1=<valor>&num2=<valor> 
+Divisão: http://localhost:3000/dividir?num1=<valor>&num2=<valor> 
 Substitua <valor> pelos números desejados.
 
 **Exemplo de Uso**
